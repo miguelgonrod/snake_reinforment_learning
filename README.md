@@ -13,7 +13,8 @@ Explore the realm of Reinforcement Learning with this Python repository, powered
 
 ## Demostration
 
-Still in development...
+https://github.com/miguelgonrod/snake_reinforment_learning/assets/49737722/9b9da512-1a78-41a5-b1b6-88754f35e63d
+
 
 
 ## Technologies
